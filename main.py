@@ -115,8 +115,8 @@ Provide answer to following questions:
 
 # My answer to these questions:
 # 1. I would say that the first model is of rather low quality. While it is significantly better at predicting survival rather than death, even that
-# doesn't have a great degree of accuracy. Overall I would say that the model lacks training and testing data to allow it to perform better
-# and us to get a more definitive results
+# doesn't have a great degree of accuracy, although it is close. Overall I would say that the model lacks training and testing data to allow it to
+# perform better and us to get a more definitive results
 
 # 2. I would say that because of the significantly higher sample size(over 900 records after removal - none were removed actually - compared to 183 the
 # Titanic data had) the precision of this model has been much better. We have achieved relatively high precision and recall values and very consistent
